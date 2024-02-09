@@ -1,0 +1,25 @@
+.container {
+  width: 85px;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.name {
+  font-size: 20px;
+}
+
+.avatar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.status {
+  font-size: 14px;
+  color: red;
+}
+
+.isOnline {
+  color: green;
+}
